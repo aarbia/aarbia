@@ -64,4 +64,4 @@ I'm a software engineer passionate about building modern full-stack web applicat
 ## 📫 Connect with Me
 
 - LinkedIn: https://linkedin.com/in/alexandraarbia
-- Portfolio: alexandraarbia.com
+- Portfolio: https://alexandraarbia.com
